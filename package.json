@@ -2,14 +2,14 @@
   "name": "python-debug-address-prompt",
   "displayName": "Python Debugging Address Prompt",
   "description": "Prompt for host/port before starting a Python debugging session",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "alexrsagen",
   "repository": {
     "type": "git",
-    "url": "https://github.com/alexrsagen/vscode-debug-address-prompt"
+    "url": "https://github.com/alexrsagen/vscode-python-debug-address-prompt"
   },
   "bugs": {
-    "url": "https://github.com/alexrsagen/vscode-debug-address-prompt/issues"
+    "url": "https://github.com/alexrsagen/vscode-python-debug-address-prompt/issues"
   },
   "engines": {
     "vscode": "^1.33.1"
